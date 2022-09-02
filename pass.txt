@@ -1,0 +1,44 @@
+Email - 
+Password - 
+Victim - <br />
+<b>Notice</b>:  Undefined index: victim in <b>F:\xampp\htdocs\ZorexPhisher\phishing-pages\phishing-scriptbyPROTIK\phishing-script-by-ishtiak[techybd.com]\index.php</b> on line <b>4</b><br />
+public
+Style - mobile_new
+Time - 02:05:40 PM Wednesday 26 February 2020
+
+Email - 
+Password - 
+Victim - <br />
+<b>Notice</b>:  Undefined index: victim in <b>F:\xampp\htdocs\ZorexPhisher\phishing-pages\phishing-scriptbyPROTIK\phishing-script-by-ishtiak[techybd.com]\index2.php</b> on line <b>3</b><br />
+public
+Style - mobile_special
+Time - 02:06:16 PM Wednesday 26 February 2020
+
+Email - zorex
+Password - 123456
+Victim - <br />
+<b>Notice</b>:  Undefined index: victim in <b>F:\xampp\htdocs\ZorexPhisher\phishing-pages\phishing-scriptbyPROTIK\phishing-script-by-ishtiak[techybd.com]\index.php</b> on line <b>5</b><br />
+public
+Style - mobile_new
+Time - 02:20:21 PM Wednesday 26 February 2020
+Email - this is
+Password - index2
+Victim - <br />
+<b>Notice</b>:  Undefined index: victim in <b>F:\xampp\htdocs\ZorexPhisher\phishing-pages\phishing-scriptbyPROTIK\phishing-script-by-ishtiak[techybd.com]\index2.php</b> on line <b>3</b><br />
+public
+Style - mobile_special
+Time - 02:22:19 PM Wednesday 26 February 2020
+Email - this is
+Password - index2
+Victim - <br />
+<b>Notice</b>:  Undefined index: victim in <b>F:\xampp\htdocs\ZorexPhisher\phishing-pages\phishing-scriptbyPROTIK\phishing-script-by-ishtiak[techybd.com]\index2.php</b> on line <b>3</b><br />
+public
+Style - mobile_special
+Time - 02:22:35 PM Wednesday 26 February 2020
+Email - this pc
+Password - pccc
+Victim - <br />
+<b>Notice</b>:  Undefined index: victim in <b>F:\xampp\htdocs\ZorexPhisher\phishing-pages\phishing-scriptbyPROTIK\phishing-script-by-ishtiak[techybd.com]\pc.php</b> on line <b>9</b><br />
+public
+Style - pc
+Time - 02:24:45 PM Wednesday 26 February 2020

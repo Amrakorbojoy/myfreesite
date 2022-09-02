@@ -1,0 +1,5 @@
+/*!CK:2796063387!*//*1439235907,*/
+
+if (self.CavalryLogger) { CavalryLogger.start_js(["Ni62x"]); }
+
+__d('MCoreInit',['AddressBar','Bootloader','ErrorUtils','MCache','MTabletLoader','MFacewebAndroidLink','MPageController','MViewport','MWildeLink','RemoteDevice','Resource','ServerJS','Stratcom','ix'],function a(b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u){if(c.__markCompiled)c.__markCompiled();function v(w){u.add(w.ixData);i.setResourceMap(w.resource_map);i.enableBootload(w.bootloadable);if(w.hideLocationBar)h.setupLoadListener();if(w.isWildeWeb)p.setupListeners();if(w.isFacewebAndroid)m.setupListeners();if(l.isTabletFrame)l.MTabletLink.initialize();t.mergeData(0);o.init();n.init();q.init();r.load(w.coreResources,function(){j.guard(function(){if(w.clearMCache)k.clear();if(w.onload)new Function(w.onload)();if(w.onafterload)new Function(w.onafterload)();new s().handle(w.serverJSData);t.invoke('m:root:render');},'onload')();});}g.init=v;},null);
